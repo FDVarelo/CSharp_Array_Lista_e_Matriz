@@ -1,0 +1,15 @@
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.csproj.AssemblyReference.cache
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.AssemblyInfoInputs.cache
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.AssemblyInfo.cs
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\bin\Debug\net6.0\Curso_CSharp_Seção_6.exe
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\bin\Debug\net6.0\Curso_CSharp_Seção_6.deps.json
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\bin\Debug\net6.0\Curso_CSharp_Seção_6.runtimeconfig.json
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\bin\Debug\net6.0\Curso_CSharp_Seção_6.dll
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\bin\Debug\net6.0\Curso_CSharp_Seção_6.pdb
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.dll
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\refint\Curso_CSharp_Seção_6.dll
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.pdb
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\Curso_CSharp_Seção_6.genruntimeconfig.cache
+C:\temp\WS-VS-2022\Curso_CSharp_Seção_6\Curso_CSharp_Seção_6\obj\Debug\net6.0\ref\Curso_CSharp_Seção_6.dll
